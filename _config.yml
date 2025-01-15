@@ -21,9 +21,9 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'mlcm-24.github.io'
-baseurl: "/mlcm-24"
-title: 'ML in Chemistry and Materials 2024'
+url: ""
+baseurl: ""
+title: 'ML in Chemistry and Materials 2025'
 description: ''
 permalink: pretty
 #logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
