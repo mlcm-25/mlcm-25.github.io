@@ -1,6 +1,6 @@
 ---
 title: ''
-feature_image: /assets/mlcm-25-banner.png
+feature_image: /assets/mlcm-25-banner_high-res.png
 
 feature_text: |
   # Machine Learning in Chemical and Materials Sciences 2025
