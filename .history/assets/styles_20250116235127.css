@@ -477,7 +477,7 @@ body {
 }
 
 a {
-  color: #816b78;
+  color: #8e06f7;
   text-decoration: none;
   transition: color 0.1s, background-color 0.1s;
 }
@@ -487,7 +487,7 @@ a:hover, a:active, a:focus {
 }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #816b78 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #8e06f7 50%);
   background-position: 0 93%;
   background-repeat: no-repeat;
   background-size: 100% 0.15rem;
@@ -536,13 +536,13 @@ a:hover, a:active, a:focus {
 }
 
 .typeset h1, .typeset .alpha {
-  color: #816b78; /* in mlcm-24 #05bf85 */
+  color: #8e06f7; /* in mlcm-24 #05bf85 */
   line-height: 3rem;
   font-weight: bolder;
   font-size: 2.5rem;
   margin-bottom: 0.37499rem;
   padding-top: 0.62501rem;
-  /* text-shadow: 2px 2px 6px #c56161; Visible shadow on text */
+  text-shadow: 2px 2px 6px #c56161; /* Visible shadow on text */
   outline: none; /* Remove outline */
 }
 
@@ -575,7 +575,7 @@ a:hover, a:active, a:focus {
   }
 }
 .typeset h2, .typeset .beta {
-  color: #816b78; /* in mlcm-24 #05bf85 */
+  color: #8e06f7; /* in mlcm-24 #05bf85 */
   line-height: 3rem;
   font-size: 2.0833333333rem;
   margin-bottom: 0.28124rem;
@@ -1016,7 +1016,7 @@ a:hover, a:active, a:focus {
   margin-top: 0rem;
 }
 .typeset blockquote p {
-  border-left: 0.15rem solid #816b78;
+  border-left: 0.15rem solid #8e06f7;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -1731,7 +1731,7 @@ button,
   cursor: pointer;
   display: inline-block;
   color: #ffffff;
-  background: #816b78;
+  background: #8e06f7;
   transition: box-shadow 0.1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -1751,7 +1751,7 @@ button:focus,
 
 .button--nav {
   background: none;
-  color: #816b78;
+  color: #8e06f7;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;
