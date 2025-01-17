@@ -537,7 +537,7 @@ a:hover, a:active, a:focus {
 
 .typeset h1, .typeset .alpha {
   color: #8e06f7; /* in mlcm-24 #05bf85 */
-  background: radial-gradient(circle, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3));
   backdrop-filter: blur(10px); /* Adjust the blur value as needed */
   line-height: 3rem;
   font-weight: bold;
