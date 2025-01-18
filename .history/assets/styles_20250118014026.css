@@ -547,7 +547,6 @@ a:hover, a:active, a:focus {
   background: rgba(233, 232, 232, 0.5); /* Darker background */
   backdrop-filter: blur(20px); /* Blurred background */
   border-radius: 20px; /* Rounded corners */
-  padding: 1rem; /* Increase padding for background */
 }
 
 @media screen and (min-width: 40em) {
