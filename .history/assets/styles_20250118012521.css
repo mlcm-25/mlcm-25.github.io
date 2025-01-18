@@ -477,7 +477,7 @@ body {
 }
 
 a {
-  color: #f6b3b5;
+  color: #816b78;
   text-decoration: none;
   transition: color 0.1s, background-color 0.1s;
 }
@@ -487,7 +487,7 @@ a:hover, a:active, a:focus {
 }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #f6b3b5 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #816b78 50%);
   background-position: 0 93%;
   background-repeat: no-repeat;
   background-size: 100% 0.15rem;
@@ -536,7 +536,7 @@ a:hover, a:active, a:focus {
 }
 
 .typeset h1, .typeset .alpha {
-  color: #f6b3b5; /* in mlcm-24 #05bf85 */
+  color: rgba(199, 92, 133, 0.999); /* in mlcm-24 #05bf85 */
   line-height: 3rem;
   font-weight: bolder;
   font-size: 2.5rem;
@@ -575,7 +575,7 @@ a:hover, a:active, a:focus {
   }
 }
 .typeset h2, .typeset .beta {
-  color: #f6b3b5; /* in mlcm-24 #05bf85 */
+  color: #816b78; /* in mlcm-24 #05bf85 */
   line-height: 3rem;
   font-size: 2.0833333333rem;
   margin-bottom: 0.28124rem;
@@ -1016,7 +1016,7 @@ a:hover, a:active, a:focus {
   margin-top: 0rem;
 }
 .typeset blockquote p {
-  border-left: 0.15rem solid #f6b3b5;
+  border-left: 0.15rem solid #816b78;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -1405,9 +1405,9 @@ body {
   padding-bottom: 0.4rem;
   margin-bottom: 1.6rem;
   text-align: center;
+  background: #333333; /* Carbon color background */
   background-size: cover; /* Change this line to scale the image */
   background-position: top 20% center; /* Prefer a higher part of the image */
-  position: relative; /* Add this line to position the text container */
 }
 .feature .container {
   min-height: 40vh;
@@ -1423,18 +1423,6 @@ body {
   -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center;
-}
-
-.feature .text-container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: rgba(0, 0, 0, 0.5); /* Darker background */
-  backdrop-filter: blur(10px); /* Blurred background */
-  border-radius: 15px; /* Rounded corners */
-  padding: 1rem;
-  color: #ffffff; /* Ensure text is readable */
 }
 
 .logo {
@@ -1743,7 +1731,7 @@ button,
   cursor: pointer;
   display: inline-block;
   color: #ffffff;
-  background: #f6b3b5;
+  background: #816b78;
   transition: box-shadow 0.1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -1763,7 +1751,7 @@ button:focus,
 
 .button--nav {
   background: none;
-  color: #f6b3b5;
+  color: #816b78;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;

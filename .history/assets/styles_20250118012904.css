@@ -1405,9 +1405,9 @@ body {
   padding-bottom: 0.4rem;
   margin-bottom: 1.6rem;
   text-align: center;
+  background: #333333; /* Carbon color background */
   background-size: cover; /* Change this line to scale the image */
   background-position: top 20% center; /* Prefer a higher part of the image */
-  position: relative; /* Add this line to position the text container */
 }
 .feature .container {
   min-height: 40vh;
@@ -1423,18 +1423,6 @@ body {
   -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center;
-}
-
-.feature .text-container {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  background: rgba(0, 0, 0, 0.5); /* Darker background */
-  backdrop-filter: blur(10px); /* Blurred background */
-  border-radius: 15px; /* Rounded corners */
-  padding: 1rem;
-  color: #ffffff; /* Ensure text is readable */
 }
 
 .logo {
