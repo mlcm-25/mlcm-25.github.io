@@ -477,7 +477,7 @@ body {
 }
 
 a {
-  color: #05bf85;
+  color: #d4777afa;;
   text-decoration: none;
   transition: color 0.1s, background-color 0.1s;
 }
@@ -487,12 +487,13 @@ a:hover, a:active, a:focus {
 }
 
 .typeset p a, .typeset li a {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #d4777afa; 50%);
   background-position: 0 93%;
-  background-repeat: repeat-x;
+  background-repeat: no-repeat;
   background-size: 100% 0.15rem;
   text-shadow: 0.1rem 0 #ffffff, 0.15rem 0 #ffffff, -0.1rem 0 #ffffff, -0.15rem 0 #ffffff;
 }
+
 .typeset p a:hover, .typeset p a:active, .typeset p a:focus, .typeset li a:hover, .typeset li a:active, .typeset li a:focus {
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #008000 50%);
 }
@@ -526,22 +527,29 @@ a:hover, a:active, a:focus {
     padding-top: 0.5657994737rem;
   }
 }
-.typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+.typeset h1, .typeset .alpha {
   color: #242e2b;
   font-family: "Comfortaa", sans-serif;
   font-feature-settings: "dlig", "liga", "lnum", "kern";
   font-style: normal;
   font-weight: 700;
 }
+
 .typeset h1, .typeset .alpha {
-  color: #05bf85;
-  background-color:rgba(255, 255, 255, 0.5);
+  color: #d4777afa; /* in mlcm-24 #05bf85 */
   line-height: 3rem;
-  font-weight: bold;
-  font-size: 2.3333333333rem;
-  margin-bottom: 0.37499rem;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  margin-bottom: 0.47499rem;
   padding-top: 0.62501rem;
+  /* text-shadow: 2px 2px 6px #c56161; Visible shadow on text */
+  outline: none; /* Remove outline */
+  background: rgba(241, 241, 241, 0.5); /* Darker background */
+  backdrop-filter: blur(5px); /* Blurred background */
+  border-radius: 20px; /* Rounded corners */
+  display: inline-block; /* Ensure the background does not spill */
 }
+
 @media screen and (min-width: 40em) {
   .typeset h1, .typeset .alpha {
     font-size: 2.1428571429rem;
@@ -571,6 +579,7 @@ a:hover, a:active, a:focus {
   }
 }
 .typeset h2, .typeset .beta {
+  color: #d4777afa;; /* in mlcm-24 #05bf85 */
   line-height: 3rem;
   font-size: 2.0833333333rem;
   margin-bottom: 0.28124rem;
@@ -1011,7 +1020,7 @@ a:hover, a:active, a:focus {
   margin-top: 0rem;
 }
 .typeset blockquote p {
-  border-left: 0.15rem solid #05bf85;
+  border-left: 0.15rem solid #d4777afa;;
   font-style: italic;
   padding-left: 1rem;
   margin-bottom: 1.99999rem;
@@ -1394,16 +1403,15 @@ body {
 .feature {
   margin-left: auto;
   margin-right: auto;
-  width:  100%;
-  height: auto;
-  background-repeat:   no-repeat;
+  width: 100%;
+  height: 60vh; /* Adjust the height to occupy more space */
+  background-repeat: no-repeat;
   padding-bottom: 0.4rem;
   margin-bottom: 1.6rem;
   text-align: center;
-  background: #f9fafa;
-  background-size: 100%;
-  background-position: center;
-
+  background-size: cover; /* Change this line to scale the image */
+  background-position: top 20% center; /* Prefer a higher part of the image */
+  position: relative; /* Add this line to position the text container */
 }
 .feature .container {
   min-height: 40vh;
@@ -1419,7 +1427,6 @@ body {
   -webkit-justify-content: center;
   -moz-justify-content: center;
   justify-content: center;
-  
 }
 
 .logo {
@@ -1728,7 +1735,7 @@ button,
   cursor: pointer;
   display: inline-block;
   color: #ffffff;
-  background: #05bf85;
+  background: #d4777afa;;
   transition: box-shadow 0.1s;
   will-change: box-shadow;
   box-shadow: inset 0 0 0 2rem transparent;
@@ -1748,7 +1755,7 @@ button:focus,
 
 .button--nav {
   background: none;
-  color: #05bf85;
+  color: #d4777afa;;
   margin-bottom: 0;
   min-height: 4rem;
   min-width: 4rem;

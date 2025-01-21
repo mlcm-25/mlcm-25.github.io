@@ -38,12 +38,14 @@ navigation_header:
   url: /
 - title: Registration
   url: /registration
-- title: Program
-  url: /program
-- title: Codes | Links
-  url: /codes
 - title: Speakers
   url: /speakers
+- title: Schedule
+  url: /schedule
+- title: Travel
+  url: /travel 
+- title: Codes | Links
+  url: /codes
 - title: Past Events
   url: /past_events
 
