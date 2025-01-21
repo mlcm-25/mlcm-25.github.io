@@ -38,8 +38,8 @@ navigation_header:
   url: /
 - title: Registration
   url: /registration
-- title: Schedule
-  url: /schedule
+- title: Program
+  url: /program
 - title: Codes | Links
   url: /codes
 - title: Speakers
