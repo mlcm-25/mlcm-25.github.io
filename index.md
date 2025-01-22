@@ -61,8 +61,8 @@ feature_text: |
 🧪 Registration is now open!      
 Early registration is by invitation only. Please, contact us if you would like to contribute a talk or a poster. If you were invited, check your email for the registration password.     
 <br>
-🌐 Last year we made an impact by running MLCM-24 in virtual format to allow world-wide connections. In exit survey, ~60% participants preffered in-person format, and we listened! 
-We are thrilled to announce that **MLCM-25** conference **will be held in-person** in historic downtown of Santa Fe, US oldest capital.   
+🌐 Last year we made an impact by running MLCM-24 in virtual format to allow world-wide connections. In an exit survey, ~60% participants preferred in-person format, and we listened!
+We are thrilled to announce that **MLCM-25** conference **will be held in-person** in historic downtown of Santa Fe, the oldest captial city in the US.
 <div style="text-align: center; padding-top: 20px;">
   <div class="grid-container">
     <div class="grid-item" style="background-color: #E3F2FD;">
@@ -95,7 +95,7 @@ The integration of Machine Learning (ML) techniques into chemistry and materials
 
 ## Topics  
 •	ML Methods for Exploring Equilibrium and Non-Equilibrium Processes   
-•	Best Practices in data Collection, Generation and Refinement
+•	Best Practices in data Collection, Generation and Refinement    
 •	Meta-Learning Models and Heterogeneous Data Sources    
 •	Development of Differentiable Physics Models    
 •	ML-Assisted Material Design and Search  
@@ -104,7 +104,7 @@ The integration of Machine Learning (ML) techniques into chemistry and materials
 ## [Registration](/registration)
 
 This is a 4-day in-person non-profit event primairly sponsored by CNLS and LANL.   
-We collects small registration fee, to cover organizational expenses. 
+We collect a small registration fee to cover organizational expenses.
 Registration fee for students/postdocs/LANL emploeyes is $200.   
 For all other participants (academia, industria, government), the registration fee is $350.  
 Please, use the [insert cvent](/registration) to register.
@@ -112,12 +112,14 @@ If you have any questions, please contact:
 
 Arnab Neogi | aneogi2@lanl.gov
 Nikita Fedik | nfedik@lanl.gov
+Emily Shinkle | eshinkle@lanl.gov
 
 ----------------------------------------
 **Organizers:**   
 
 Nikita Fedik   | LANL T-1/CNLS    
 Arnab Neogi | LANL T-1/CNLS             
+Emily Shinkle | LANL CCS-3             
 
  <br>
 **Organizing Committee:**   
