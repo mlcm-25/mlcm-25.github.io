@@ -61,7 +61,7 @@ feature_text: |
 🧪 Registration is now open!      
 Early registration is by invitation only. Please, contact us if you would like to contribute a talk or a poster. If you were invited, check your email for the registration password.     
 <br>
-🌐 Last year we made an impact by running MLCM-24 in virtual format to allow world-wide connections. In an exit survey, ~60% participants preferred in-person format, and we listened!
+🌐 Last year we made an impact by running MLCM-24 in virtual format to allow world-wide connections. In an exit survey, ~60% participants preferred in-person format, and we listened! 
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in historic downtown of Santa Fe, the oldest captial city in the US.
 <div style="text-align: center; padding-top: 20px;">
   <div class="grid-container">
@@ -104,7 +104,7 @@ The integration of Machine Learning (ML) techniques into chemistry and materials
 ## [Registration](/registration)
 
 This is a 4-day in-person non-profit event primairly sponsored by CNLS and LANL.   
-We collect a small registration fee to cover organizational expenses.
+We collect a small registration fee to cover organizational expenses. 
 Registration fee for students/postdocs/LANL emploeyes is $200.   
 For all other participants (academia, industria, government), the registration fee is $350.  
 Please, use the [insert cvent](/registration) to register.
