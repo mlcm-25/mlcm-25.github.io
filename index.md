@@ -116,13 +116,13 @@ The integration of Machine Learning (ML) techniques into chemistry and materials
 • ML-Assisted Material Design and Search  
 • ML for rational and autonomous experiments
 
-## [Registration](/registration)
+## [Registration](https://forms.gle/C1LVLLaSo47nTdAi8)
 
 This is a 4-day in-person, non-profit event primarily sponsored by CNLS and LANL.  
 We collect a small registration fee to cover organizational expenses.  
 Registration fee for students/postdocs/LANL employees is $200.  
 For all other participants (academia, industry, government), the registration fee is $350.  
-Registration includes refreshments, lunches, evening networking reception and dinner. See [PROGRAM](/program) for more details. Please, use the [REGISTRATION LINK](/registration) to register.
+Registration includes refreshments, lunches, evening networking reception and dinner. See [PROGRAM](/program) for more details. Please, use the [REGISTRATION LINK](https://forms.gle/C1LVLLaSo47nTdAi8) to register.
 
 If you have any questions, please, reach out to us! 
 
