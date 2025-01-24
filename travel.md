@@ -9,7 +9,7 @@ title: Travel Directions
 
 > 💡**IMPORTANT**  
 > Hotel Santa Fe reserved a block of rooms for conference attendees at a rate of **$167/night + tax**.  
-> Please use the direct link: [MLCM-25 rate | reserve room in Hotel Santa Fe]](https://res.windsurfercrs.com/ibe/details.aspx?propertyid=14341&nights=2&checkin=05/18/2025&group=1646454&lang=en-us)  
+> Please use the direct link: [MLCM-25 rate | reserve room in Hotel Santa Fe](https://res.windsurfercrs.com/ibe/details.aspx?propertyid=14341&nights=2&checkin=05/18/2025&group=1646454&lang=en-us)  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12963.144970608168!2d-105.95771882166181!3d35.682264999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x871850420ac6ddeb%3A0x51d872cd9038dce7!2sHotel%20Santa%20Fe%2C%20Hacienda%20%26%20Spa!5e0!3m2!1sen!2sus!4v1737486154431!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
