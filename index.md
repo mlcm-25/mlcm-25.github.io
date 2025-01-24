@@ -72,9 +72,9 @@ table td {
 <br>
 
 🧪 **Registration is now open**!      
-- All poster submissions are welcome untill capacity is reached
+- All poster submissions are welcome until capacity is reached
 - If you would like to contribute a talk, please, email organizers with the details
-- if you received an invitation, please, proceed with the registration
+- If you received an invitation, please, proceed with the registration
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in the historic downtown of Santa Fe, the oldest capital in the US.   
@@ -123,14 +123,6 @@ We collect a small registration fee to cover organizational expenses.
 Registration fee for students/postdocs/LANL employees is $200.  
 For all other participants (academia, industry, government), the registration fee is $350.  
 Registration includes refreshments, lunches, evening networking reception and dinner. See [PROGRAM](/program) for more details. Please, use the [REGISTRATION LINK](/registration) to register.
-
-## Topics  
-•	ML Methods for Exploring Equilibrium and Non-Equilibrium Processes   
-•	Best Practices in data Collection, Generation and Refinement    
-•	Meta-Learning Models and Heterogeneous Data Sources    
-•	Development of Differentiable Physics Models    
-•	ML-Assisted Material Design and Search  
-•	ML for rational and autonomous experiments
 
 If you have any questions, please, reach out to us! 
 

@@ -8,7 +8,7 @@ For list of confirmed speakers and their talks, please, visit [SPEAKERS](/speake
 
 We plan to host around **40 talks**, **40 poster presentations**, and **100 participants in total** to ensure a Gordon-like experience where all participants have a chance for networking and interactions.  
 
-### Day 2: Monday, May 19, 2025  
+### Day 1: Monday, May 19, 2025  
 - Morning session  
 - Lunch (included in registration)  
 - Afternoon session  
@@ -28,7 +28,7 @@ We plan to host around **40 talks**, **40 poster presentations**, and **100 part
 - **Dinner at Hotel Santa Fe (included in registration)**  
 
 
-### Day 4: Wednesday, May 21, 2025  
+### Day 4: Thursday, May 22, 2025  
 - Morning session  
 - Lunch (included in registration)  
 - Afternoon session  
