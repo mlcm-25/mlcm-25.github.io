@@ -122,9 +122,7 @@ This is a 4-day in-person, non-profit event primarily sponsored by CNLS and LANL
 We collect a small registration fee to cover organizational expenses.  
 Registration fee for students/postdocs/LANL employees is $200.  
 For all other participants (academia, industry, government), the registration fee is $350.  
-Please use the [REGISTRATION LINK](/registration) to register.
-
-=======
+Registration includes refreshments, lunches, evening networking reception and dinner. See [PROGRAM](/program) for more details. Please, use the [REGISTRATION LINK](/registration) to register.
 
 ## Topics  
 •	ML Methods for Exploring Equilibrium and Non-Equilibrium Processes   
@@ -134,27 +132,15 @@ Please use the [REGISTRATION LINK](/registration) to register.
 •	ML-Assisted Material Design and Search  
 •	ML for rational and autonomous experiments
 
-## [Registration](/registration)
+If you have any questions, please, reach out to us! 
 
-This is a 4-day in-person non-profit event primairly sponsored by CNLS and LANL.   
-We collect a small registration fee to cover organizational expenses. 
-Registration fee for students/postdocs/LANL emploeyes is $200.   
-For all other participants (academia, industria, government), the registration fee is $350.  
-Please, use the [insert cvent](/registration) to register.
-If you have any questions, please contact: 
-
-Emily Shinkle | eshinkle@lanl.gov  
-Arnab Neogi | aneogi2@lanl.gov  
-Nikita Fedik | nfedik@lanl.gov  
-
-----------------------------------------
 **Organizers:**  
 
-Emily Shinkle | LANL CCS-3  
-Arnab Neogi | LANL T-1/CNLS  
-Nikita Fedik   | LANL T-1/CNLS  
-         
-<br>
+Nikita Fedik   | LANL T-1/CNLS | nfedik@lanl.gov  
+Emily Shinkle | LANL CCS-3  | eshinkle@lanl.gov  
+Arnab Neogi | LANL T-1/CNLS  | aneogi2@lanl.gov  
+
+----------------------------------------
 
 **Organizing Committee:**  
 
