@@ -72,7 +72,7 @@ table td {
 <br>
 
 🧪 **Registration is now open**!      
-- All poster submissions are welcome untill capacity is filled
+- All poster submissions are welcome untill capacity is reached
 - If you would like to contribute a talk, please, email organizers with the details
 - if you received an invitation, please, proceed with the registration
 
