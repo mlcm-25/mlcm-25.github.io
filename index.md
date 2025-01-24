@@ -31,13 +31,13 @@ feature_text: |
 
 table {
   border-collapse: separate;    /* Required for border-spacing to work */
-  border-spacing: 10px 10px;    /* First value = horizontal spacing, second = vertical spacing */
+  border-spacing: 8px px;    /* First value = horizontal spacing, second = vertical spacing */
 }
 
 /* Add internal space within each cell (like HTML cellpadding) */
 table th,
 table td {
-  padding: 5px;
+  padding: 3px;
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
