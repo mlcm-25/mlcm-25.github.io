@@ -69,8 +69,9 @@ table td {
       </tr>
     </table>
   </div>
-    
-🧪 Registration is now open!      
+<br>
+
+🧪 **Registration is now open**!      
 - All poster submissions are welcome untill capacity is filled
 - If you would like to contribute a talk, please, email organizers with the details
 - if you received an invitation, please, proceed with the registration
