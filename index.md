@@ -71,7 +71,9 @@ table td {
   </div>
     
 🧪 Registration is now open!      
-Early registration is by invitation only. Please contact us if you would like to contribute a talk or a poster. If you were invited, check your email for the registration password.     
+- All poster submissions are welcome untill capacity is filled
+- If you would like to contribute a talk, please, email organizers with the details
+- if you received an invitation, please, proceed with the registration
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in the historic downtown of Santa Fe, the oldest capital in the US.   
