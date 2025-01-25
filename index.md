@@ -130,7 +130,7 @@ If you have any questions, please, reach out to us!
 
 Nikita Fedik   | LANL T-1/CNLS | nfedik@lanl.gov  
 Emily Shinkle | LANL CCS-3  | eshinkle@lanl.gov  
-Arnab Neogi | LANL T-1/CNLS  | aneogi2@lanl.gov  
+Arnab Neogi | LANL T-4  | aneogi2@lanl.gov  
 
 ----------------------------------------
 
