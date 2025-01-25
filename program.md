@@ -10,7 +10,7 @@ We plan to host around **40 talks**, **40 poster presentations**, and **100 part
 
 ### Day 1: Monday, May 19, 2025  
 - Morning session  
-- Lunch (included in registration)  
+- Lunch (included in registration***)  
 - Afternoon session  
 - **Evening networking reception (included in registration)**  
 
@@ -33,3 +33,6 @@ We plan to host around **40 talks**, **40 poster presentations**, and **100 part
 - Lunch (included in registration)  
 - Afternoon session  
 - Closing remarks
+
+> *** **NOTE for LANL participants** ***  
+> Due to LANL policies, lunches are not included in the registration fee. They can be purchased separately as non-reimbursable add-ons during registration.

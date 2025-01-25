@@ -1,1 +1,1 @@
-init
+MLCM-25 website forked from alembic Jekyll theme. Contact organizers if you have any questions. 
