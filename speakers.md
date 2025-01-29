@@ -2,12 +2,19 @@
 title: List of confirmed speakers
 ---
 
-Check back for more updates! We have just opened early registration. 
-To get an idea about the topics and potential speakers, check out [MLCM-24 PROGRAM](https://mlcm-25.github.io/mlcm-24/program). 
-
 ## Confirmed speakers:
 
-Olexandr Isayev | Carnegie Mellon University  
-Daniel	Schwalbe-Koda | UCLA  
-Serhii Tretiakov | University of Groningen  
- 
+Alice Allen | Max Planck Institute for Polymer Research 
+Daniel Schwalbe-Koda | UCLA
+David Rosenberger | Freie Universität Berlin
+Jenna Pope | Pacific Northwest National Laboratory
+Joshua Racker | Prescient Design
+Lukas Hoermann | University of Warwick
+Maksim Kulichenko | Los Alamos National Laboratory
+Noa Marom | Carnegie Mellon University
+Olexandr Isayev | Carnegie Mellon University
+Serhii Tretiakov | University of Groningen
+Teresa Head-Gordon | UC Berkley
+
+
+To get an idea about the past topics and speakers, check out [MLCM-24 PROGRAM](https://mlcm-25.github.io/mlcm-24/program). 
