@@ -6,8 +6,8 @@ feature_text: |
   # Machine Learning in Chemical and Materials Sciences 2025 [MLCM-25]
 ---
 
-<meta property="og:image" content="https://mlcm-25/mlcm-25.github.io/assets/mlcm-25-banner.png" />
-<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image" content="https://mlcm-25.github.io/assets/mlcm-25-banner.png" />
+<meta property="og:image:type" content="image/png" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 
