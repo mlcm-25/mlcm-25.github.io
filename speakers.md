@@ -8,7 +8,7 @@ David Rosenberger | Freie Universität Berlin
 Jenna Pope | Pacific Northwest National Laboratory, US  
 Joshua Racker | Prescient Design, US  
 Lukas Hoermann | University of Warwick, UK  
-Maksim Kulichenko | Los Alamos National Laboratory, US  
+Maksim Kulichenko | LANL, US  
 Noa Marom | Carnegie Mellon University, US  
 Olexandr Isayev | Carnegie Mellon University, US  
 Serhii Tretiakov | University of Groningen, Netherlands  
