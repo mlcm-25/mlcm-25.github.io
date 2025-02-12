@@ -34,5 +34,5 @@ We plan to host around **40 talks**, **40 poster presentations**, and **100 part
 - Afternoon session  
 - Closing remarks
 
-> *** **NOTE for LANL participants** ***  
+> ❕ *** NOTE for LANL participants ***   
 > Due to LANL policies, lunches are not included in the registration fee. They can be purchased separately as non-reimbursable add-ons during registration.
