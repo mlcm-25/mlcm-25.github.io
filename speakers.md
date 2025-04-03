@@ -15,7 +15,6 @@ David Rosenberger | Free University of Berlin, Germany
 David Yaron | Carnegie Mellon University, US  
 Fang Liu | Emory University, US  
 Ganesh Sivaraman | University at Buffalo, US  
-Ganna Grynova | University of Birmingham, UK  
 Jenna A. Pope | Pacific Northwest National Laboratory, US  
 Jing Huang | Westlake University, China  
 Joshua Rackers | Prescient Design, US  
