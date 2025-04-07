@@ -80,7 +80,7 @@ table td {
         <td>April 21, 2025</td>
       </tr>
       <tr>
-        <th>Special Hotel Rate Valid Until</th>
+        <th>Hotel Rate Valid Until</th>
         <td>April 18, 2025</td>
       </tr>
     </table>
