@@ -51,6 +51,7 @@ table td {
 </style>
 
 ## Important Info 
+🧪 **Registration is now open**!      
 
 <div style="font-size: 1rem;">
     <table>
@@ -85,7 +86,6 @@ table td {
     </table>
   </div>
 
-🧪 **Registration is now open**!      
 - All poster submissions are welcome until capacity is reached
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
