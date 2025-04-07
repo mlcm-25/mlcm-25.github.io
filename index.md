@@ -52,11 +52,12 @@ table td {
 
 ## Important Info 
 
-  <div style="font-size: 1rem;">
+<div style="font-size: 1rem;">
     <table>
       <tr>
         <th>Dates</th>
-        <td>May 19-22, 2025</td></tr>
+        <td>May 19-22, 2025</td>
+      </tr>
       <tr>
         <th>Format</th>
         <td>In-Person only</td>
@@ -73,9 +74,16 @@ table td {
         <th>Fee</th>
         <td>Students/Postdocs/LANL - $200, General - $350</td>
       </tr>
+      <tr>
+        <th>Registration Deadline</th>
+        <td>April 21, 2025</td>
+      </tr>
+      <tr>
+        <th>Special Hotel Rate Valid Until</th>
+        <td>April 18, 2025</td>
+      </tr>
     </table>
   </div>
-<br>
 
 🧪 **Registration is now open**!      
 - All poster submissions are welcome until capacity is reached
