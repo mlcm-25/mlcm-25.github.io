@@ -47,6 +47,36 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
+/* Logo showcase specific styling */
+.logo-showcase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo-item {
+  background: none;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+}
+
+.logo-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.logo-item img {
+  max-width: 250px;
+  height: auto;
+  display: block;
+}
+
 
 </style>
 
@@ -100,17 +130,16 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
      
 Awards are brough to you by our valued industry sponsors: 
-<div style="text-align: center; padding: 20px 0;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <a href="https://www.nvidia.com/en-us/">
-      <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 250px; height: auto; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-    <a href="https://www.scm.com">
-      <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 250px; height: auto; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
-    </a>
-  </div>
+
+<div class="logo-showcase">
+  <a href="https://www.nvidia.com/en-us/" class="logo-item">
+    <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia">
+  </a>
+  <a href="https://www.scm.com" class="logo-item">
+    <img src="/assets/scm_logo.jpg" alt="SCM">
+  </a>
 </div>
-        
+
 ## Conference Info     
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
