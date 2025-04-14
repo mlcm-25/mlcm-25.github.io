@@ -50,7 +50,7 @@ table td {
 
 </style>
 
-## Important Info 
+## Dates and Location     
 🧪 **Registration is now open**!      
 
 <div style="font-size: 1rem;">
@@ -99,9 +99,22 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
     
 Awards are brough to you by our valued industry sponsors: 
+<div style="text-align: center; padding-top: 20px;">
+  <div class="grid-container">
+    <div class="grid-item" style="display: inline-block; margin: 20px; vertical-align: middle;">
+      <a href="https://www.nvidia.com/en-us/">
+        <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 200px; height: auto;">
+      </a>
+    </div>
+    <div class="grid-item" style="display: inline-block; margin: 20px; vertical-align: middle;">
+      <a href="https://www.scm.com">
+        <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 200px; height: auto;">
+      </a>
+    </div>
+  </div>
+</div>    
 
-| [![Nvidia](/assets/NVIDIA-logo-white-16x9.png)](https://www.nvidia.com/en-us/) | [![SCM](/assets/scm_logo.jpg)](https://www.scm.com) |
-|:---:|:---:|     
+## Conference Info     
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in the historic downtown of Santa Fe, the oldest capital in the US.   
