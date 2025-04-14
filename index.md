@@ -47,10 +47,40 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
+/* Logo showcase specific styling */
+.logo-showcase {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.logo-item {
+  background: none;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+}
+
+.logo-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.logo-item img {
+  max-width: 250px;
+  height: auto;
+  display: block;
+}
+
 
 </style>
 
-## Important Info 
+## Dates and Location     
 🧪 **Registration is now open**!      
 
 <div style="font-size: 1rem;">
@@ -85,10 +115,31 @@ table td {
       </tr>
     </table>
   </div>
-
-- All poster submissions are welcome until capacity is reached
+ <br>      
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
+- All poster submissions are welcome until capacity is reached
+      
+## Poster Session Awards
+
+**Nvidia GPU Award**     
+One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.
+    
+**SCM Research Excellence Awards**    
+Two cash prizes will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all poster presenters except the recipient of the NVIDIA GPU award.   
+     
+Awards are brought to you by our valued industry sponsors: 
+
+<div class="logo-showcase">
+  <a href="https://www.nvidia.com/en-us/" class="logo-item">
+    <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia">
+  </a>
+  <a href="https://www.scm.com" class="logo-item">
+    <img src="/assets/scm_logo.jpg" alt="SCM">
+  </a>
+</div>
+
+## Conference Info     
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in the historic downtown of Santa Fe, the oldest capital in the US.   
