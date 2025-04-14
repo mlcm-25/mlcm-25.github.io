@@ -100,20 +100,16 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
      
 Awards are brough to you by our valued industry sponsors: 
-<div style="text-align: center;">
-  <div class="grid-container">
-    <div class="grid-item" style="display: inline-block; vertical-align: middle;">
-      <a href="https://www.nvidia.com/en-us/">
-        <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 250px; height: auto;">
-      </a>
-    </div>
-    <div class="grid-item" style="display: inline-block; vertical-align: middle;">
-      <a href="https://www.scm.com">
-        <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 250px; height: auto;">
-      </a>
-    </div>
+<div style="text-align: center; padding: 20px 0;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+    <a href="https://www.nvidia.com/en-us/">
+      <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 250px; height: auto; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+    <a href="https://www.scm.com">
+      <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 250px; height: auto; transition: transform 0.3s ease; display: block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
   </div>
-</div>    
+</div>
         
 ## Conference Info     
 
