@@ -85,10 +85,24 @@ table td {
       </tr>
     </table>
   </div>
-
-- All poster submissions are welcome until capacity is reached
+   
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
+- All poster submissions are welcome until capacity is reached
+
+## Poster Session Awards:
+
+**NVIDIA GPU Award**     
+One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.
+    
+**SCM Research Excellence Awards**    
+Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
+    
+Awards are brough to you by our valued industry sponsors: 
+
+| [![Nvidia](/assets/NVIDIA-logo-white-16x9.png)](https://www.nvidia.com/en-us/) | [![SCM](/assets/scm_logo.jpg)](https://www.scm.com) |
+|:---:|:---:|   
+
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
 We are thrilled to announce that **MLCM-25** conference **will be held in-person** in the historic downtown of Santa Fe, the oldest capital in the US.   
@@ -161,6 +175,6 @@ Sergei Tretiak | LANL T-1/CINT
 
 <br>
 
-**Sponsor**  
+**Internal Sponsorhip**  
 [Center for Non-Linear Studies (CNLS)](https://cnls.lanl.gov/External/)  
 ![](/assets/CNLS_logo.jpg){: width="200" }
