@@ -115,8 +115,7 @@ table td {
       </tr>
     </table>
   </div>
-       
-       
+ <br>      
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
 - All poster submissions are welcome until capacity is reached
