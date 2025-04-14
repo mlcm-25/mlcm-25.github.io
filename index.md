@@ -101,7 +101,7 @@ Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.c
 Awards are brough to you by our valued industry sponsors: 
 
 | [![Nvidia](/assets/NVIDIA-logo-white-16x9.png)](https://www.nvidia.com/en-us/) | [![SCM](/assets/scm_logo.jpg)](https://www.scm.com) |
-|:---:|:---:|   
+|:---:|:---:|     
 
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
