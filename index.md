@@ -89,7 +89,7 @@ table td {
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
 - All poster submissions are welcome until capacity is reached
-
+      
 ## Poster Session Awards:
 
 **NVIDIA GPU Award**     
@@ -97,7 +97,7 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
     
 **SCM Research Excellence Awards**    
 Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
-    
+     
 Awards are brough to you by our valued industry sponsors: 
 <div style="text-align: center; padding-top: 20px;">
   <div class="grid-container">
@@ -113,7 +113,7 @@ Awards are brough to you by our valued industry sponsors:
     </div>
   </div>
 </div>    
-
+        
 ## Conference Info     
 
 🌐 Last year we made an impact by running MLCM-24 in a virtual format to allow worldwide connections. In the exit survey, ~60% of participants preferred an in-person format, and we listened!  
