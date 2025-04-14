@@ -122,13 +122,13 @@ table td {
       
 ## Poster Session Awards
 
-**NVIDIA GPU Award**     
+**Nvidia GPU Award**     
 One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best poster demonstrating innovative research that leverages NVIDIA capabilities for advanced GPU computations. This premium hardware prize recognizes exceptional contributions to GPU-enabled computational research.
     
 **SCM Research Excellence Awards**    
-Two cash prizes will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
+Two cash prizes will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all poster presenters except the recipient of the NVIDIA GPU award.   
      
-Awards are brough to you by our valued industry sponsors: 
+Awards are brought to you by our valued industry sponsors: 
 
 <div class="logo-showcase">
   <a href="https://www.nvidia.com/en-us/" class="logo-item">
