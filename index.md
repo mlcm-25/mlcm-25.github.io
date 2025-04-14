@@ -85,7 +85,8 @@ table td {
       </tr>
     </table>
   </div>
-
+       
+       
 - If you would like to contribute a talk, please, email organizers with the details
 - If you received an invitation, please, proceed with the registration
 - All poster submissions are welcome until capacity is reached
@@ -99,16 +100,16 @@ One [Nvidia](https://www.nvidia.com/en-us/) GPU will be awarded to the best post
 Two monetary prizes ($200 and $150) will be presented by [SCM](https://www.scm.com/) to recognize outstanding posters in any research domain aligned with the conference themes. These awards are open to all participants except the recipient of the NVIDIA GPU award.   
      
 Awards are brough to you by our valued industry sponsors: 
-<div style="text-align: center; padding-top: 20px;">
+<div style="text-align: center;">
   <div class="grid-container">
-    <div class="grid-item" style="display: inline-block; margin: 20px; vertical-align: middle;">
+    <div class="grid-item" style="display: inline-block; vertical-align: middle;">
       <a href="https://www.nvidia.com/en-us/">
-        <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 200px; height: auto;">
+        <img src="/assets/NVIDIA-logo-white-16x9.png" alt="Nvidia" style="max-width: 250px; height: auto;">
       </a>
     </div>
-    <div class="grid-item" style="display: inline-block; margin: 20px; vertical-align: middle;">
+    <div class="grid-item" style="display: inline-block; vertical-align: middle;">
       <a href="https://www.scm.com">
-        <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 200px; height: auto;">
+        <img src="/assets/scm_logo.jpg" alt="SCM" style="max-width: 250px; height: auto;">
       </a>
     </div>
   </div>
