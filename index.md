@@ -47,34 +47,36 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
-/* Logo showcase specific styling */
 .logo-showcase {
   display: flex;
+  flex-wrap: wrap;         /* Allow logos to wrap onto new lines */
   justify-content: center;
   align-items: center;
-  gap: 40px;
+  gap: 24px;               /* Reduce gap for better fit */
   padding: 20px 0;
   text-align: center;
 }
 
 .logo-item {
-  background: none;
-  padding: 20px;
-  border: 2px solid #ddd;
-  border-radius: 15px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  display: inline-block;
-}
-
-.logo-item:hover {
-  transform: scale(1.1);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  flex: 1 1 120px;         /* Allow items to shrink/grow, set min width */
+  max-width: 180px;        /* Prevent logos from being too wide */
 }
 
 .logo-item img {
-  max-width: 250px;
+  max-width: 100%;         /* Make image responsive to container */
   height: auto;
   display: block;
+}
+
+/* Responsive adjustments for mobile */
+@media (max-width: 600px) {
+  .logo-showcase {
+    gap: 12px;
+  }
+  .logo-item {
+    max-width: 120px;
+    padding: 10px;
+  }
 }
 
 
