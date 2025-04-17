@@ -47,12 +47,12 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
-/* Logo showcase specific styling */
 .logo-showcase {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 40px;
+  gap: 24px;
   padding: 20px 0;
   text-align: center;
 }
@@ -64,6 +64,9 @@ table td {
   border-radius: 15px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: inline-block;
+  flex: 1 1 220px;       /* Increased base width for larger logos */
+  max-width: 280px;      /* Larger max width on desktop */
+  box-sizing: border-box;
 }
 
 .logo-item:hover {
@@ -72,10 +75,32 @@ table td {
 }
 
 .logo-item img {
-  max-width: 250px;
+  max-width: 100%;
   height: auto;
   display: block;
+  margin: 0 auto;
 }
+
+/* Responsive adjustments for mobile */
+@media (max-width: 900px) {
+  .logo-item {
+    flex: 1 1 180px;
+    max-width: 220px;
+    padding: 15px;
+  }
+}
+
+@media (max-width: 600px) {
+  .logo-showcase {
+    gap: 12px;
+  }
+  .logo-item {
+    flex: 1 1 120px;
+    max-width: 140px;
+    padding: 10px;
+  }
+}
+
 
 
 </style>
