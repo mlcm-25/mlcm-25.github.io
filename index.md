@@ -49,10 +49,10 @@ table td {
 
 .logo-showcase {
   display: flex;
-  flex-wrap: wrap;                /* Allow logos to wrap onto new lines */
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 24px;                      /* Reasonable gap for desktop */
+  gap: 24px;
   padding: 20px 0;
   text-align: center;
 }
@@ -60,37 +60,47 @@ table td {
 .logo-item {
   background: none;
   padding: 20px;
-  border: 2px solid #ddd;         /* Border for each logo */
-  border-radius: 15px;            /* Rounded corners */
+  border: 2px solid #ddd;
+  border-radius: 15px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   display: inline-block;
-  flex: 1 1 120px;                /* Allows shrinking/growing, min width */
-  max-width: 180px;               /* Prevent logos from being too wide */
-  box-sizing: border-box;         /* Ensures padding/border included in width */
+  flex: 1 1 220px;       /* Increased base width for larger logos */
+  max-width: 280px;      /* Larger max width on desktop */
+  box-sizing: border-box;
 }
 
 .logo-item:hover {
-  transform: scale(1.1);          /* Zoom effect on hover */
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);   /* Soft shadow on hover */
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
 
 .logo-item img {
-  max-width: 100%;                /* Responsive image */
+  max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
 /* Responsive adjustments for mobile */
+@media (max-width: 900px) {
+  .logo-item {
+    flex: 1 1 180px;
+    max-width: 220px;
+    padding: 15px;
+  }
+}
+
 @media (max-width: 600px) {
   .logo-showcase {
     gap: 12px;
   }
   .logo-item {
-    max-width: 120px;
+    flex: 1 1 120px;
+    max-width: 140px;
     padding: 10px;
   }
 }
+
 
 
 </style>
