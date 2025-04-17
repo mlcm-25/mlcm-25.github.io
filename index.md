@@ -49,23 +49,36 @@ table td {
 
 .logo-showcase {
   display: flex;
-  flex-wrap: wrap;         /* Allow logos to wrap onto new lines */
+  flex-wrap: wrap;                /* Allow logos to wrap onto new lines */
   justify-content: center;
   align-items: center;
-  gap: 24px;               /* Reduce gap for better fit */
+  gap: 24px;                      /* Reasonable gap for desktop */
   padding: 20px 0;
   text-align: center;
 }
 
 .logo-item {
-  flex: 1 1 120px;         /* Allow items to shrink/grow, set min width */
-  max-width: 180px;        /* Prevent logos from being too wide */
+  background: none;
+  padding: 20px;
+  border: 2px solid #ddd;         /* Border for each logo */
+  border-radius: 15px;            /* Rounded corners */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  display: inline-block;
+  flex: 1 1 120px;                /* Allows shrinking/growing, min width */
+  max-width: 180px;               /* Prevent logos from being too wide */
+  box-sizing: border-box;         /* Ensures padding/border included in width */
+}
+
+.logo-item:hover {
+  transform: scale(1.1);          /* Zoom effect on hover */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);   /* Soft shadow on hover */
 }
 
 .logo-item img {
-  max-width: 100%;         /* Make image responsive to container */
+  max-width: 100%;                /* Responsive image */
   height: auto;
   display: block;
+  margin: 0 auto;
 }
 
 /* Responsive adjustments for mobile */
