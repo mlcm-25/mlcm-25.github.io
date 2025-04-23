@@ -132,11 +132,11 @@ table td {
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>April 21, 2025</td>
+        <td>April 30, 2025 [extended]</td>
       </tr>
       <tr>
         <th>Hotel Rate Valid Until</th>
-        <td>April 18, 2025</td>
+        <td>call the hotel directly</td>
       </tr>
     </table>
   </div>
