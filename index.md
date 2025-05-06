@@ -132,7 +132,7 @@ table td {
       </tr>
       <tr>
         <th>Registration Deadline</th>
-        <td>April 30, 2025 [extended]</td>
+        <td>May 9, 2025 [extended]</td>
       </tr>
       <tr>
         <th>Hotel Rate Valid Until</th>
@@ -141,9 +141,9 @@ table td {
     </table>
   </div>
  <br>      
-- If you would like to contribute a talk, please, email organizers with the details
-- If you received an invitation, please, proceed with the registration
-- All poster submissions are welcome until capacity is reached
+- All talk slots are now fully booked
+- If you have received an invitation, please proceed with registration
+- A few poster and participant spots remain available
       
 ## Poster Session Awards
 
