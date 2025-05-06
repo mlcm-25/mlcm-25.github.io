@@ -3,23 +3,28 @@ title: Program
 ---
 
 <style>
+
+html, body {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: visible;
+}
 .full-width-embed {
-  width: 100vw !important;
-  max-width: 100vw !important;
-  margin-left: calc(50% - 50vw) !important;
-  margin-right: calc(50% - 50vw) !important;
-  padding: 0 !important;
-  background: white !important;
-  overflow-x: auto !important;
-  position: relative !important;
-  left: 0 !important;
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding: 0;
+  background: white;
+  overflow-x: auto;
 }
 .full-width-embed iframe {
-  width: 100vw !important;
-  max-width: 100vw !important;
-  min-width: 0 !important;
-  display: block !important;
-  border: none !important;
+  width: 100vw;
+  max-width: 100vw;
+  min-width: 0;
+  display: block;
+  border: none;
 }
 </style>
 
