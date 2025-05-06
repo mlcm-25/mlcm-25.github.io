@@ -4,22 +4,15 @@ title: Program
 
 <style>
 .full-width-embed {
-  width: 100vw;
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  max-width: 100vw;
-  overflow-x: auto;
-  background: white;
+  width: 100%;
+  max-width: 1200px; /* or whatever width you prefer */
+  margin: 2em auto;   /* centers the div horizontally */
   padding: 0;
-  z-index: 2;
 }
 .full-width-embed iframe {
-  width: 100vw !important;
-  min-width: 100vw;
-  max-width: 100vw;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
   display: block;
   border: none;
 }
