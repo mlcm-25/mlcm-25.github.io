@@ -4,20 +4,22 @@ title: Program
 
 <style>
 .full-width-embed {
-  width: 100vw;
-  max-width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  padding: 0;
-  background: white;
-  overflow-x: auto;
+  width: 100vw !important;
+  max-width: 100vw !important;
+  margin-left: calc(50% - 50vw) !important;
+  margin-right: calc(50% - 50vw) !important;
+  padding: 0 !important;
+  background: white !important;
+  overflow-x: auto !important;
+  position: relative !important;
+  left: 0 !important;
 }
 .full-width-embed iframe {
-  width: 100vw;
-  max-width: 100vw;
-  min-width: 0;
-  display: block;
-  border: none;
+  width: 100vw !important;
+  max-width: 100vw !important;
+  min-width: 0 !important;
+  display: block !important;
+  border: none !important;
 }
 </style>
 
