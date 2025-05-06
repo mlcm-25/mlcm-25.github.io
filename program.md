@@ -4,8 +4,7 @@ title: Program
 
 <style>
 .full-width-embed {
-  width: 100%;
-  max-width: 1200px; /* or whatever width you prefer */
+  width: 1200px; /* or whatever width you prefer */
   margin: 2em auto;   /* centers the div horizontally */
   padding: 0;
 }
