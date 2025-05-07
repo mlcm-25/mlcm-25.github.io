@@ -18,7 +18,9 @@ Oleg Prezhdo | University of Southern California
 Robert Paton | Colorado State University  
 Seonah Kim | Colorado State University  
 Teresa Head-Gordon | University of California, Berkeley  
+  
 <br>
+  
 Alice Allen | Max Plank Institute, Germany  
 Ashley Dale | University of Toronto  
 Austin Rodriguez | Michigan State University  
