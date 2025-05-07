@@ -5,7 +5,7 @@ title: List of confirmed speakers
 See [PROGRAM](/program) for details and time
 
 **⚡Plenary Speakers**
-
+  
 Aditi Krishnapriyan | University of California, Berkeley  
 Anatole von Lilienfeld | University Of Toronto / Vector Institute  
 Brandon Wood | FAIR at META  
@@ -18,6 +18,7 @@ Noa Marom | Carnegie Mellon University
 Robert Paton | Colorado State University  
 Seonah Kim | Colorado State University  
 Teresa Head-Gordon | University of California, Berkeley  
+  
 <br>
   
 Alice Allen | Max Plank Institute, Germany  
