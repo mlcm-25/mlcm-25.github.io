@@ -14,7 +14,6 @@ Joshua Schrier | Fordham University
 Justin Smith | NVIDIA  
 Mathew Cherukara | Argonne National Laboratory  
 Noa Marom | Carnegie Mellon University  
-Oleg Prezhdo | University of Southern California  
 Robert Paton | Colorado State University  
 Seonah Kim | Colorado State University  
 Teresa Head-Gordon | University of California, Berkeley  
