@@ -41,7 +41,7 @@ Jing Huang | Westlake University
 Joshua Rackers | Achira  
 Joshua Vita | Lawrence Livermore National Laboratory  
 Katelyn Jones | National Institute of Standards and Technology  
-Lukas Hoermann | University of Warwick, UK    
+Lukas Hoermann | University of Warwick, UK  
 Maksim Kulichenko | Los Alamos National Laboratory  
 Michael Taylor | Los Alamos National Laboratory  
 Rae Grove | Los Alamos National Laboratory  
