@@ -2,33 +2,6 @@
 title: Program
 ---
 
-<style>
-
-html, body {
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  overflow-x: visible;
-}
-.full-width-embed {
-  width: 100vw;
-  max-width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  padding: 0;
-  background: white;
-  overflow-x: auto;
-}
-.full-width-embed iframe {
-  width: 100vw;
-  max-width: 100vw;
-  min-width: 0;
-  display: block;
-  border: none;
-}
-</style>
-
-
 **All times are given in American MDT timezone (GMT-6:00)**     
 If you have a schedule conflict, please let us know. 
 
