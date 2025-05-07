@@ -16,7 +16,6 @@ Noa Marom | Carnegie Mellon University
 Robert Paton | Colorado State University  
 Seonah Kim | Colorado State University  
 Teresa Head-Gordon | University of California, Berkeley  
-  
 <br>
   
 Alice Allen | Max Plank Institute, Germany  
