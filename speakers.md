@@ -7,7 +7,7 @@ See [PROGRAM](/program) for details and time
 **⚡Plenary Speakers**  
 
 Aditi Krishnapriyan | University of California, Berkeley  
-Anatole von Lilienfeld | University Of Toronto | Vector Institute  
+Anatole von Lilienfeld | University Of Toronto / Vector Institute  
 Brandon Wood | FAIR at META  
 Jenna A. Pope | Pacific Northwest National Laboratory  
 Joshua Schrier | Fordham University  
@@ -18,8 +18,7 @@ Oleg Prezhdo | University of Southern California
 Robert Paton | Colorado State University  
 Seonah Kim | Colorado State University  
 Teresa Head-Gordon | University of California, Berkeley  
-
-
+<br>
 Alice Allen | Max Plank Institute, Germany  
 Ashley Dale | University of Toronto  
 Austin Rodriguez | Michigan State University  
