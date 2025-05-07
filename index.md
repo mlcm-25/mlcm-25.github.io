@@ -106,7 +106,7 @@ table td {
 </style>
 
 ## Dates and Location     
-🧪 **Registration is now open**!      
+🧪 **Last chance to register**!      
 
 <div style="font-size: 1rem;">
     <table>
