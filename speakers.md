@@ -5,7 +5,6 @@ title: List of confirmed speakers
 See [PROGRAM](/program) for details and time
 
 **⚡Plenary Speakers**  
-
 Aditi Krishnapriyan | University of California, Berkeley  
 Anatole von Lilienfeld | University Of Toronto / Vector Institute  
 Brandon Wood | FAIR at META  
