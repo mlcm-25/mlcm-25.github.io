@@ -8,6 +8,7 @@ See [PROGRAM](/program) for details and time
 Aditi Krishnapriyan | University of California, Berkeley  
 Anatole von Lilienfeld | University Of Toronto / Vector Institute  
 Brandon Wood | FAIR at META  
+Daniel Schwalbe-Koda | University of California Los Angeles  
 Jenna A. Pope | Pacific Northwest National Laboratory  
 Joshua Schrier | Fordham University  
 Justin Smith | NVIDIA  
@@ -27,15 +28,12 @@ Bakhtiyor Rasulev | North Dakota State University
 Baosen Zhang | Fordham University  
 Bhupalee Kalita | Carnegie Mellon University  
 Chaitanya Kolluru | Argonne National Laboratory  
-Chaitanya Kolluru | Argonne National Laboratory  
 Cynthia Reichhardt | Los Alamos National Laboratory  
-Daniel Schwalbe-Koda | University of California Los Angeles  
 David Rosenberger | Bundesanstalt für Materialforschung und prüfung (BAM), Germany  
 David Yaron | Carnegie Mellon University  
 Fang Liu | Emory University  
 Ganesh Sivaraman | State University of New York at Buffalo  
 Huan Lei | Michigan State University  
-Jenna A. Pope | Pacific Northwest National Laboratory  
 Jing Huang | Westlake University  
 Joshua Rackers | Achira  
 Joshua Vita | Lawrence Livermore National Laboratory  
