@@ -106,7 +106,7 @@ table td {
 </style>
 
 ## Dates and Location     
-🧪 **Last chance to register**!      
+🧪 **Registration is closed. Check mlcm-26.github.io (not live yet) in a few months for the next event**!      
 
 <div style="font-size: 1rem;">
     <table>
