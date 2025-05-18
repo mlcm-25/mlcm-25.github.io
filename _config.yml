@@ -44,8 +44,8 @@ navigation_header:
   url: /program
 - title: Travel
   url: /travel 
-- title: Codes | Links
-  url: /codes
+- title: Live Hub [codes papers]
+  url: /livehub
 - title: Past Events
   url: /past_events
 
