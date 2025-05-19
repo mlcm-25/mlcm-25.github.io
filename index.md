@@ -47,14 +47,17 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
-.logo-showcase {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 24px;
-  padding: 20px 0;
-  text-align: center;
+.logo-showcase img {
+  max-height: 120px;     /* Set the maximum height */
+  max-width: 240px;     /* Set the maximum width */
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  background: white;    /* Optional: for contrast */
+  padding: 8px;         /* Optional: for spacing */
+  border-radius: 8px;   /* Optional: for rounded corners */
+  box-sizing: border-box;
 }
 
 .logo-item {
