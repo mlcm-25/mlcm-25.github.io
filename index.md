@@ -47,14 +47,12 @@ table td {
   font-size: 1.1rem !important;   /* Keep your font-size override */
 }
 
-.logo-showcase {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 24px;
-  padding: 20px 0;
-  text-align: center;
+.logo-showcase img {
+  height: 60px;         /* or any value that fits your design */
+  width: auto;          /* maintain aspect ratio */
+  object-fit: contain;  /* ensures the whole image fits within the box */
+  display: block;       /* removes extra space below images */
+  max-width: 120px;     /* optional: to prevent very wide logos */
 }
 
 .logo-item {
