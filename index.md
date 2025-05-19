@@ -48,8 +48,8 @@ table td {
 }
 
 .logo-showcase img {
-  max-height: 60px;     /* Set the maximum height */
-  max-width: 120px;     /* Set the maximum width */
+  max-height: 120px;     /* Set the maximum height */
+  max-width: 240px;     /* Set the maximum width */
   width: auto;
   height: auto;
   object-fit: contain;
