@@ -48,11 +48,16 @@ table td {
 }
 
 .logo-showcase img {
-  height: 60px;         /* or any value that fits your design */
-  width: auto;          /* maintain aspect ratio */
-  object-fit: contain;  /* ensures the whole image fits within the box */
-  display: block;       /* removes extra space below images */
-  max-width: 120px;     /* optional: to prevent very wide logos */
+  max-height: 60px;     /* Set the maximum height */
+  max-width: 120px;     /* Set the maximum width */
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  display: block;
+  background: white;    /* Optional: for contrast */
+  padding: 8px;         /* Optional: for spacing */
+  border-radius: 8px;   /* Optional: for rounded corners */
+  box-sizing: border-box;
 }
 
 .logo-item {
